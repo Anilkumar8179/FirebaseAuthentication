@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363176112410",
+    "project_id": "ak-firebase-c3600",
+    "storage_bucket": "ak-firebase-c3600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363176112410:android:b60deab715582ac08efca3",
+        "android_client_info": {
+          "package_name": "com.anilkumar.ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363176112410-bmf4lovf0mmgmlf4b87mhclbcg3obrit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEUvYDk9nyUEr88uEJaTokxCVOV_G6m_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363176112410-bmf4lovf0mmgmlf4b87mhclbcg3obrit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
